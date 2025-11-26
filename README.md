@@ -5,7 +5,7 @@ https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoCol
 
 To set the project up, ensure that your device has met all of the following prerequirements. Then, follow the installation steps to retrieve a local copy of the system.
 
-Prerequirements
+Prerequirements:
 Your device must run on Android 11, 12, 13, 14 or 15 for it to be compatible with this system.
 
 Please ensure that you have a working camera so that the image targets can be scanned. This is an example of how to list things you need to use the software and how to install them.
