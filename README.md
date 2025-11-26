@@ -16,6 +16,7 @@ Follow the steps below to run a local copy on your device:
 Clone the GitHub repository
 
 git clone https://github.com/ACG6th/AR_DEMO_FINAL.git
+
 Download the same version of Unity as used in the project, Make sure to also download Unity 2022 Engine.
 
 In Unity, click on "Window" and then "Package Manager" to ensure that all the necessary dependencies are downloaded. Check that you have the following packages installed:
